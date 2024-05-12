@@ -25,7 +25,7 @@ const Modular = () => {
           </div>
           <Breadcrumb
             pageName="Modular Partitions"
-            description="Pharma Air Solutions offers complete range of economical & innovative solutions for manufacturing complete range of cleanroom products. We deliver modular clean room partitions which are suitable for industrial demands complying with the requirements of standard GMP guidelines."
+            description="Pharmacle Air Solutions offers complete range of economical & innovative solutions for manufacturing complete range of cleanroom products. We deliver modular clean room partitions which are suitable for industrial demands complying with the requirements of standard GMP guidelines."
           />
           <div className=" flex flex-col">
             <div className="w-full px-4">

@@ -49,21 +49,21 @@ const Header = () => {
                 href="/"
                 className={`header-logo block w-full ${sticky ? "py-5 lg:py-2" : "py-8"}`}
               >
-                {/* <Image
-                  src="/images/logo/logo-2.svg"
+                <Image
+                  src="/images/logo/logo-transparent-png.png"
                   alt="logo"
                   width={140}
                   height={30}
-                  className="w-full dark:hidden"
+                  className="w-[100px] h-[80px] dark:hidden object-cover"
                 />
                 <Image
-                  src="/images/logo/logo.svg"
+                  src="/images/logo/light5.png"
                   alt="logo"
                   width={140}
                   height={30}
-                  className="hidden w-full dark:block"
-                /> */}
-                <h2>LOGO</h2>
+                  className="hidden  dark:block w-[100px] h-[80px] object-cover "
+                />
+               
               </Link>
             </div>
             <div className="flex w-full items-center justify-between px-4">

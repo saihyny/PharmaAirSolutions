@@ -14,7 +14,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Contact Page"
-        description="At Pharma Air Solutions, your satisfaction is our ultimate goal. We are committed to providing exceptional customer service and building long-term partnerships. Let us know how we can assist you."
+        description="At Pharmacle Air Solutions, your satisfaction is our ultimate goal. We are committed to providing exceptional customer service and building long-term partnerships. Let us know how we can assist you."
       />
       <div className="flex flex-wrap  md:mx-[65px] sm:mx-[100px] justify-center border-slate-400 border-2  rounded-lg">
        <div className="border-slate-400 border-2 p-2 w-[400px] h-[200px] m-1 rounded-3xl">

@@ -14,21 +14,21 @@ const Footer = () => {
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-5/12">
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
-                  <h1>Logo</h1>
-                  {/* <Image
-                    src="/images/logo/logo-2.svg"
-                    alt="logo"
-                    className="w-full dark:hidden"
-                    width={140}
-                    height={30}
-                  />
-                  <Image
-                    src="/images/logo/logo.svg"
-                    alt="logo"
-                    className="hidden w-full dark:block"
-                    width={140}
-                    height={30}
-                  /> */}
+                 
+                <Image
+                  src="/images/logo/logo-transparent-png.png"
+                  alt="logo"
+                  width={140}
+                  height={30}
+                  className="w-[100px] h-[80px] dark:hidden object-cover"
+                />
+                <Image
+                  src="/images/logo/light5.png"
+                  alt="logo"
+                  width={140}
+                  height={30}
+                  className="hidden  dark:block w-[100px] h-[80px] object-cover "
+                />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.

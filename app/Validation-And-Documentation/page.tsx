@@ -23,7 +23,7 @@ const BlogDetailsPage = () => {
           </div>
           <Breadcrumb
         pageName="Validation And Documentation"
-        description="Pharma Air Solutions has proven experience in providing validation services
+        description="Pharmacle Air Solutions has proven experience in providing validation services
         and testing. In addition to the test and certification
         services, we offer a comprehensive validation support service
         for the provision of qualification documentation to satisfy
@@ -34,7 +34,7 @@ const BlogDetailsPage = () => {
               <div className="mx-auto rounded  bg-white px-6 shadow-three dark:bg-dark sm:p-[60px]">
                 <br></br>
                 <h2 className=" font-mono">
-                  Pharma Air Solutions is a pioneer in the field of third party cleanroom
+                  Pharmacle Air Solutions is a pioneer in the field of third party cleanroom
                   validation services. We excel in providing independent
                   cleanroom validation & cleanroom certification with
                   sophisticated instruments.
@@ -42,7 +42,7 @@ const BlogDetailsPage = () => {
                 <br></br>
                 <h2 className=" font-mono">
                   All our equipments are meticulously calibrated according to
-                  the latest international guidelines. Pharma Air Solutions validation
+                  the latest international guidelines. Pharmacle Air Solutions validation
                   technicians are trained and internally accredited in the
                   testing of all types of validation equipment’s. We adhere to
                   strict business ethics and our company’s integrity is
@@ -63,7 +63,7 @@ const BlogDetailsPage = () => {
                 <br></br>
                 <h2 className=" font-mono">
                   Validation Plans: All projects require a high level document
-                  to lay down the validation approach and Pharma Air Solutions coordinate with
+                  to lay down the validation approach and Pharmacle Air Solutions coordinate with
                   the customer to develop the most appropriate and effective
                   validation plan.
                 </h2>

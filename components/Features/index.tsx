@@ -8,8 +8,8 @@ const Features = () => {
       <section id="features" className="py-16 md:py-20 lg:py-28">
         <div className="container">
           <SectionTitle
-            title="Welcome to Pharma Air Solutions"
-            paragraph="Established in 2007, Pharma Air Solutions is a global organization specialized in innovative cleanroom solutions for controlled environments. Over the years we have diversified from designing and construction of cleanrooms into a complete turnkey solution provider for your ever changing needs in cleanroom industry. With extensive crossmarket industry knowledge, we deliver high-performing modular cleanroom environments that enhance your business results."
+            title="Welcome to Pharmacle Air Solutions"
+            paragraph="Established in 2007, Pharmacle Air Solutions is a global organization specialized in innovative cleanroom solutions for controlled environments. Over the years we have diversified from designing and construction of cleanrooms into a complete turnkey solution provider for your ever changing needs in cleanroom industry. With extensive crossmarket industry knowledge, we deliver high-performing modular cleanroom environments that enhance your business results."
             center
           />
 
